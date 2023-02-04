@@ -1,10 +1,12 @@
-## Oi! eu sou o João Paulo 👋
+## Oi! eu sou o João Paulo 👋🌴🌴
+### Contato 📞
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-teles-25621922b/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-teles-25621922b/) 
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jpteles63@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpteles&show_icons=true&theme=dark) 
 
-## Tecnologias que utilizo
+## Tecnologias que utilizo 💻
 <div atyles="display: inline_block"><br/>
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
